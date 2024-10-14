@@ -642,7 +642,8 @@ span{
         flex-direction: column;
     }
     .project-art img{
-        width: 80%;
+        width: 100%;
+        
     }
     .hidden-text{
         bottom: 0;

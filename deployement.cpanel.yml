@@ -1,6 +1,0 @@
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/yebe1844/public_html/
-    - /bin/cp -R Assets $DEPLOYPATH
-    - /bin/cp -R CSS $DEPLOYPATH
-    - /bin/cp -R HTML $DEPLOYPATH
